@@ -1,3 +1,6 @@
+
+arr = [int(x) for x in string.split('\n')]
+
 # 1
 for i in arr:
   for j in arr:
