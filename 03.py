@@ -1,3 +1,4 @@
+string = '''<input>'''
 
 arr = string.split('\n')
 maxc = len(arr[0])
