@@ -1,3 +1,4 @@
+string = '''<input>'''
 
 arr = string.split('\n')
 arr = [x.split(' ') for x in arr]
