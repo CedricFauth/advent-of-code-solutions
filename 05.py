@@ -1,6 +1,8 @@
 string = '''<input>'''
 string = string.split('\n')
 
+# 2
+
 if __name__ == '__main__':
 		
 	max_row = 0
